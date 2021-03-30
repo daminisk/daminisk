@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Damini Shrivastava Khosla (daminisk)
+- 👀 I’m interested in Dance, Piano, Running and Coding
+- 🌱 I’m currently learning the python language while creating games and apps using websites such as scratch.mit.edu, gamefroot.com and thunkable
+- 💞️ I’m looking to collaborate on multiple gaming projects and more
+- 📫 You can reach me via email, my email is daminis5126@gmail.com
